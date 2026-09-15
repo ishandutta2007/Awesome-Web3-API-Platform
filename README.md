@@ -80,6 +80,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Ponder](https://github.com/ponder-sh/ponder)** <a href="https://github.com/ponder-sh/ponder/stargazers"><img src="https://img.shields.io/github/stars/ponder-sh/ponder?style=social&color=white" alt="GitHub stars"/></a>  
   Open-source framework for indexing EVM blockchain data into a custom GraphQL API with excellent TypeScript developer experience.
 - **[Subsquid / SQD](https://github.com/subsquid/squid-sdk)** <a href="https://github.com/subsquid/squid-sdk/stargazers"><img src="https://img.shields.io/github/stars/subsquid/squid-sdk?style=social&color=white" alt="GitHub stars"/></a>  
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
   High-performance open-source indexing framework and data network for building custom blockchain indexers and APIs.
 
 - **RPC Load Balancers & Node Tooling** (e.g., nodecore and similar projects)  
