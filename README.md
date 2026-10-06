@@ -46,6 +46,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Covalent](https://www.covalenthq.com/)** | Unified multi-chain blockchain data API focused on normalized balances, transactions, NFTs, and historical data. | Starts at $50/month | 25,000 API credits per month | ~$30M |
 | **[Bitquery](https://bitquery.io/)** | Blockchain data platform offering GraphQL and streaming APIs for deep on-chain analytics across many networks. | Starts at $49/month | 10,000 API points free trial (1 month) or 7-day streaming trial | $20M |
 | **[Chainbase](https://chainbase.com/)** | All-in-one Web3 data infrastructure platform providing indexed blockchain data and APIs for developers. | Starts at $99/month | 200,000 credits per month | $15M |
+| **[LYFTIUM](https://www.lyftium.com/)** | Ethereum Mainnet JSON-RPC priced in requests per minute (rpm). Auth via `X-Api-Key` header only; fail-closed HTTP 503 when the sync gate is closed. | Starts at $29/month (100 rpm) | None (paid only) | Independent / early-stage |
 
 - **Additional infrastructure providers** (Ankr, Chainstack, NOWNodes, dRPC, etc.)  
   Broader ecosystem of node and API services frequently used alongside or instead of the platforms above.
